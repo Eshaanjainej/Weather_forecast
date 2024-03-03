@@ -37,3 +37,6 @@ Run the main Python file to start the application.
 
 ### Acknowledgments
 Special thanks to the developers of Tkinter and OpenWeatherMap for their valuable resources and APIs, which made this project possible.
+### project snippets
+![Screenshot 2024-03-03 112218](https://github.com/Eshaanjainej/Weather_forecast/assets/150604431/dc1bbb5e-4be1-4987-a703-cf104fa7be65)
+![Screenshot 2024-03-03 112147](https://github.com/Eshaanjainej/Weather_forecast/assets/150604431/6a82ba46-b01f-4909-884d-7b6e1a8c6697)
